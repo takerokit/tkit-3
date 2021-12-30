@@ -1,0 +1,790 @@
+
+<!DOCTYPE html>
+<html lang="ja" itemscope itemtype="http://schema.org/Blog">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" /><link rel="shortcut icon" type="image/vnd.microsoft.icon" href="https://livedoor.blogimg.jp/serarico_bamboo/imgs/b/b/favicon.ico" /><link rel="icon" href="https://livedoor.blogimg.jp/serarico_bamboo/imgs/b/b/bbe102ac.jpg" />
+<link rel="stylesheet" href="https://parts.blog.livedoor.jp/css/template.css?v=20190826" type="text/css" />
+<link rel="stylesheet" href="https://parts.blog.livedoor.jp/css/comment2/heart.css?v=20180704" type="text/css" />
+<link rel="stylesheet" href="https://parts.blog.livedoor.jp/css/comment2/icon.css?v=20180704" type="text/css" />
+<link rel="stylesheet" href="https://serarico.blog.jp/site.css?_=20211227160538" type="text/css" /><link rel="alternate" type="application/rss+xml" title="RSS" href="https://serarico.blog.jp/index.rdf" />
+<link rel="alternate" type="application/atom+xml" title="Atom" href="https://serarico.blog.jp/atom.xml" /><link rel="canonical" href="https://serarico.blog.jp/archives/13188868.html" />
+<link rel="mixi-check-alternate" media="mixi-device-mobile" type="text/html" href="https://serarico.blog.jp/archives/13188868.html" />
+<link rel="mixi-check-alternate" media="mixi-device-smartphone" type="text/html" href="https://serarico.blog.jp/archives/13188868.html" />
+<script type="text/javascript" src="https://parts.blog.livedoor.jp/js/jquery-1.11.1.min.js"></script>
+
+<meta name="description" content="
+  先日、免許更新のため長崎警察署の運転免許センターに行ってきました。もちろん高齢者講習は受講済み。   【新駅舎内の通路と売店です】
+  ご案内のとおり、長崎駅は大改装工事中です。電停から駅西口にある運転免許センターにどう行くか定かではありませんが、まあ、行け" />
+<meta property="description" content="  先日、免許更新のため長崎警察署の運転免許センターに行ってきました。もちろん高齢者講習は受講済み。   【新駅舎内の通路と売店です】  ご案内のとおり、長崎駅は大改装工事中です。電停から駅西口にある運転免許センターにどう行くか定かではありませんが、まあ、行け" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="新しくなる長崎駅 : セラリコ日記" />
+<meta property="og:description" content="  先日、免許更新のため長崎警察署の運転免許センターに行ってきました。もちろん高齢者講習は受講済み。   【新駅舎内の通路と売店です】  ご案内のとおり、長崎駅は大改装工事中です。電停から駅西口にある運転免許センターにどう行くか定かではありませんが、まあ、行け" />
+<meta property="og:url" content="https://serarico.blog.jp/archives/13188868.html" />
+<meta property="og:site_name" content="セラリコ日記" />
+<meta property="og:locale" content="ja_JP" />
+<meta property="og:image" content="https://livedoor.blogimg.jp/serarico_bamboo/imgs/a/d/addf7b33.jpg" />
+
+<meta name="twitter:site" content="@KitamuraTakero" />
+<meta name="twitter:title" content="新しくなる長崎駅 : セラリコ日記" />
+<meta name="twitter:description" content="  先日、免許更新のため長崎警察署の運転免許センターに行ってきました。もちろん高齢者講習は受講済み。   【新駅舎内の通路と売店です】  ご案内のとおり、長崎駅は大改装工事中です。電停から駅西口にある運転免許センターにどう行くか定かではありませんが、まあ、行け" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image:src" content="https://livedoor.blogimg.jp/serarico_bamboo/imgs/a/d/addf7b33.jpg" />
+<link rel="alternate" media="handheld" type="application/xhtml+xml" href="https://serarico.blog.jp/" />
+
+<title>新しくなる長崎駅 : セラリコ日記</title>
+<script src="https://parts.blog.livedoor.jp/js/emoji.js"></script>
+<script src="https://parts.blog.livedoor.jp/js/misc.js?v=20190710"></script>
+<!--[if lt IE 9]>
+<script src="https://parts.blog.livedoor.jp/js/html5.js"></script>
+<![endif]-->
+<script src="https://parts.blog.livedoor.jp/js/usr/import.js"></script>
+
+
+<meta name="referrer" content="always">
+<meta name="referrer" content="unsafe-url">
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-1638469-45"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+
+var blogId = '8439475';
+if (blogId) {
+  gtag('config', 'UA-1638469-45', {
+    'custom_map': {'dimension1': 'blog_id'},
+    'blog_id': blogId
+  });
+} else {
+  gtag('config', 'UA-1638469-45');
+}
+</script>
+
+</head>
+<body class="default_2012 page-article sidebar-right"><script type="text/javascript"><!--
+var ld_blog_vars = {
+  provider_id : '1',
+  provider_name : 'livedoor',
+  id : '8439475',
+  name : 'serarico_bamboo',
+  charset : 'utf8',
+  url : 'https://serarico.blog.jp/',
+  title : 'セラリコ日記',
+  blog_design: {
+      version: 1
+  },
+  blog_category: {
+    id: '2',
+    permalink: 'https://blog.livedoor.com/category/2/',
+    name: '日記(総合) > 日記',
+    is_adult : 0,
+    is_gambling : 0,
+    hierarchy: [{ id: '1', name: '日記(総合)', permalink: 'https://blog.livedoor.com/category/1/' },{ id: '2', name: '日記', permalink: 'https://blog.livedoor.com/category/2/' }]
+  },
+  current_page : {
+    type : 'article',    page : ''
+  },
+  articles : [ {
+       id : '13188868',
+       permalink : 'https://serarico.blog.jp/archives/13188868.html',
+       title : '新しくなる長崎駅',
+       categories : [ { id:'247256', name:'街歩き', permalink:'https://serarico.blog.jp/archives/cat_247256.html' }, { id:'', name:'', permalink:'' } ],
+       date : '2021-12-23 16:01:23'
+}   ]
+};
+//-->
+</script><div id="analyzer_tags" style="display:none">
+<script type="text/javascript" src="https://parts.blog.livedoor.jp/js/c2.js?v=20191010"></script>
+<script type="text/javascript">blog_counter('serarico_bamboo', 8439475, 'https://serarico.blog.jp/')</script>
+</div><script type="text/javascript" src="https://parts.blog.livedoor.jp/js/smartphone.js?v=20200824"></script>
+<script type="text/javascript" src="https://serarico.blog.jp/settings/header.js?v=20190705"></script><script type="text/javascript" src="https://serarico.blog.jp/settings/ad.js"></script>
+<script type="text/javascript">
+var palette_src = 'https://parts.blog.livedoor.jp/img/emoji/3/palette.png';
+if (typeof IMAGE_CACHE == 'object' && IMAGE_CACHE['emoji_palette']) IMAGE_CACHE['emoji_palette'].src = palette_src;
+</script>
+
+<!-- Blog Common Header // -->
+<!-- // Blog Common Header -->
+
+
+<div id="wrapper">
+
+<div id="container">
+
+<!-- ブログタイトル、説明 -->
+<header id="blog-header" class="show-image">
+    <div id="blog-header-inner">
+        <h1 id="blog-title"><a href="https://serarico.blog.jp/">セラリコ日記</a></h1>
+        <p id="blog-description">後期高齢者の繰り言です。</p>
+    </div>
+    <img src="https://resize.blogsys.jp/f4f94020ae000831d68c36dacf0547f7f32da431/trim1/0x0_900x295/https://livedoor.blogimg.jp/serarico_bamboo/imgs/d/9/d9e7cb0a.jpg" id="blog-header-image">
+    
+    <div class="ldb_menu">
+    <ul class="ldb_menu-list" id="ldb_menu-list-9763afb1">
+    <li class="ldb_menu-item-index"><a href="https://serarico.blog.jp/">ホーム</a></li>
+    <li class="ldb_menu-item-category-247255"><a href="https://serarico.blog.jp/archives/cat_247255.html">時事問題</a></li>
+    <li class="ldb_menu-item-category-247256"><a href="https://serarico.blog.jp/archives/cat_247256.html">街歩き</a></li>
+    </ul>
+    </div>
+    <script type="text/javascript">
+    (function(){
+        var urls = [location.href.replace(location.search,'')];
+        if (ld_blog_vars.current_page.type === 'article') {
+            var categories = ld_blog_vars.articles[0].categories;
+            for (var i=0,j=categories.length; i<j; i++)
+                categories[i].permalink && urls.push(categories[i].permalink);
+        }
+        for (var ii=0,jj=urls.length; ii<jj; ii++) {
+            var current_class_name = 'ldb_menu-item-current';
+            var current = document.querySelector('#ldb_menu-list-9763afb1 a[href="'+urls[ii]+'"]');
+            if (current) {
+                var li = current.parentNode;
+                if (!(new RegExp('(^| +)'+current_class_name+'($| +)')).test(li.className)) {
+                    if (li.className)
+                        li.className = li.className + ' ' + current_class_name;
+                    else
+                        li.className = current_class_name;
+                }
+            }
+        }
+    })();
+    </script>
+
+</header>
+<!-- /ブログタイトル、説明 -->
+
+<div id="content">
+
+<div id="main" class="column">
+<div id="main-inner">
+
+ 
+
+
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="https://serarico.blog.jp/archives/13188868.html"
+    trackback:ping="http://trackback.blogsys.jp/livedoor/serarico_bamboo/13188868"
+    dc:title="新しくなる長崎駅"
+    dc:identifier="https://serarico.blog.jp/archives/13188868.html"
+    dc:subject="街歩き"
+    dc:description="  先日、免許更新のため長崎警察署の運転免許センターに行ってきました。もちろん高齢者講習は受講済み。   【新駅舎内の通路と売店です】  ご案内のとおり、長崎駅は大改装工事中です。電停から駅西口にある運転免許センターにどう行くか定かではありませんが、まあ、行け"
+    dc:creator="serarico_bamboo"
+    dc:date="2021-12-23T16:01:23+09:00" />
+</rdf:RDF>
+-->
+<div id="ad_rs" class="ad_rs_b"></div>
+<!-- 記事全体 -->
+<article class="article first-article" itemscope itemtype="http://schema.org/BlogPosting">
+
+<!-- 記事ヘッダー、記事タイトル -->
+<header class="article-header">
+    <h1 class="article-title" itemprop="name"><a href="https://serarico.blog.jp/archives/13188868.html" itemprop="url">新しくなる長崎駅</a></h1>
+    <p class="article-date"><time datetime="2021-12-23T16:01:23+09:00" itemprop="datePublished">2021年12月23日 16:01</time></p>
+</header>
+<!-- /記事ヘッダー、記事タイトル -->
+
+<!-- 記事本文 -->
+<div class="article-body" itemprop="articleBody">
+    <div class="article-body-inner">
+
+    <div  class="basebox usel">
+  先日、免許更新のため長崎警察署の運転免許センターに行ってきました。もちろん高齢者講習は受講済み。   <div  class="chushaku">【新駅舎内の通路と売店です】<img  alt="IMG_3915駅構内売店" border="0" width="600" src="https://livedoor.blogimg.jp/serarico_bamboo/imgs/a/d/addf7b33.jpg"></div><br  clear="”all”">
+  ご案内のとおり、長崎駅は大改装工事中です。電停から駅西口にある運転免許センターにどう行くか定かではありませんが、まあ、行けば分かる程度の軽い気持ちで出かけました。電車を降りて元のカモメ広場の方に下りたら、それらしいトンネル通路があったので、何の疑いもなく進んで行ったところ、なんとアミュプラザの駐車場にぶつかり、先は行き止まり。あわてて、引き返して東口駅前広場に逆戻り。長崎駅の東口から西口へはなかなか通り抜けることができず、右往左往。  
+ <div  class="chushaku"><img  src="https://livedoor.blogimg.jp/serarico_bamboo/imgs/f/0/f00014ba.jpg" width="600" border="0" alt="IMG_3904東口工事中">【アミュプラザと工事中の東口広場。】</div>
+　実は駅西口に通じる通路はもっと北側の、交番のそばにあるんです。
+ <div  class="chushaku"><img  src="https://livedoor.blogimg.jp/serarico_bamboo/imgs/d/1/d1bcdb1c.jpg" width="600" border="0" alt="IMG_3902東口エントランス">【交番と通り抜け通路入り口】</div>
+　<br  clear="all">
+ 　 案内は出ているものの、人間一度摺りこんだ観念からは、なかなか抜け出せないものですね。小さな案内などとても目に入るはずもなく、おかげで久々に良い運動ができました。  
+ <img  src="https://livedoor.blogimg.jp/serarico_bamboo/imgs/1/f/1fed7317.jpg" width="600" border="0" alt="IMG_3918西口からヒルトンホテル"><div  class="chushaku">【新駅舎を抜けた西側広場から望む出島メッセ、ヒルトンホテル】</div>
+ 　 長い通路を抜けてやっと西側に出たのですが、ここでもまたびっくり。初めて目にする新駅舎と西口周辺は、まさに大都会並みの圧巻の眺め。MICEと呼ばれた出島メッセやヒルトンホテルの豪華さは元より、広いタクシー乗り場を備えた駅前広場は、鍋底のような狭い長崎のイメージなどみじんも感じられません。  
+  <a  href="https://livedoor.blogimg.jp/serarico_bamboo/imgs/8/e/8e513eaa.jpg" title="IMG_3921西口道路南方向" target="_blank"><img  src="https://livedoor.blogimg.jp/serarico_bamboo/imgs/8/e/8e513eaa.jpg" width="600" border="0" alt="IMG_3921西口道路南方向" hspace="5" class="pict" align="left"></a>  
+<a  href="https://livedoor.blogimg.jp/serarico_bamboo/imgs/5/6/56ec02ca.jpg" title="IMG_3922西口道路北方向" target="_blank"><img  src="https://livedoor.blogimg.jp/serarico_bamboo/imgs/5/6/56ec02ca.jpg" width="600" border="0" alt="IMG_3922西口道路北方向" hspace="5" class="pict" align="left"></a>
+<a  href="https://livedoor.blogimg.jp/serarico_bamboo/imgs/9/5/95149af1.jpg" title="IMG_3934西口タクシー乗り場" target="_blank"><img  src="https://livedoor.blogimg.jp/serarico_bamboo/imgs/9/5/95149af1.jpg" width="500" border="0" alt="IMG_3934西口タクシー乗り場" hspace="5" class="pict" align="left"></a>
+<br  clear="all">
+東口開発はまだこれからですが、西口より数倍広い土地です。どのような形になるのか、完成した姿を見るのが楽しみです。しかし、人口流出日本一の過疎化が進む長崎県！！　最近はJRが県内4つの駅を無人駅化するとのこと。こんな立派な施設を作って、本当に利用客が来るのか少し心配になりました。閑古鳥が鳴かないよう若い人たちの努力に期待したいです。<br />  
+ <div  class="chushaku">【動画は工事中の長崎駅東口】</div>
+<iframe  height="315" width="600" src="https://www.youtube.com/embed/8uNPOtLBhn0?feature=oembed" frameborder="0" style="vertical-align:top;" allowfullscreen></iframe></div>
+<br  clear="all">
+　
+ <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3355.488875587055!2d129.86686165041715!3d32.752760280886086!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3515533a501ddec9%3A0x2ef714b6cdabdf83!2z6ZW35bSO6aeF!5e0!3m2!1sja!2sjp!4v1640242598134!5m2!1sja!2sjp" width="600" height ="400" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+    </div>
+    <div id="ldblog_related_articles_ae034c69">
+
+<div class="related-articles ldblog_related_articles_ae034c69" data-category-id="247256" data-article-rows="10">
+<h3>「街歩き」カテゴリの最新記事</h3>
+<ul id="ldblog_related_articles_ae034c69_247256"></ul>
+</div>
+</div>
+<script type="text/html" id="ldblog_related_articles_ae034c69_tmpl">
+<% for(var i=0,l=articles.length;i<l;i++) {%><% if(i>=rows) break; %>
+<li><a href="<%=articles[i].permalink%>"><%=articles[i].title%></a></li>
+<% } %>
+</script>
+<script type="text/javascript" src="https://parts.blog.livedoor.jp/js/related_articles.js?t=20180221"></script>
+<script type="text/javascript">
+(function(){
+RelatedArticles.load('ldblog_related_articles_ae034c69', '13188868');
+})();
+</script>
+    
+
+</div>
+<!-- /記事本文 -->
+
+<!-- 記事フッター、カテゴリ、コメント、ソーシャルボタン -->
+<footer class="article-footer">
+    <ul class="article-meta">
+        
+        <li class="article-comment-count">
+            <dl><dt>コメント数:</dt><dd><a href="https://serarico.blog.jp/archives/13188868.html#comments">0 コメント</a></dd></dl>
+        </li>
+        
+        
+        <li class="article-category">
+            <dl><dt>カテゴリ:</dt><dd class="article-category1"><a href="https://serarico.blog.jp/archives/cat_247256.html">街歩き</a></dd></dl>
+        </li>
+        
+        <li class="article-author">by <span itemprop="author">TakeroKit<span></li>
+    </ul>
+    <div class="article-social-btn">
+    <script charset="utf-8" type="text/javascript">    var userAgent = window.navigator.userAgent.toLowerCase();
+    if(userAgent.indexOf('msie') != -1 || userAgent.indexOf('trident') != -1) {
+      
+      document.write('<a href="https://twitter.com/intent/tweet?text=新しくなる長崎駅 - セラリコ日記&url=https://serarico.blog.jp/archives/13188868.html" target="_blank"><img src="https://parts.blog.livedoor.jp/img/twitter_ie.png" width="76" height="20"></a>');
+      
+    } else {
+      document.write('<a href="https://twitter.com/share" class="twitter-share-button"  data-url="https://serarico.blog.jp/archives/13188868.html" data-text="新しくなる長崎駅 - セラリコ日記" data-lang="ja">Tweet</a>');
+      var btn = document.getElementsByClassName('twitter-share-button');
+      var el  = document.createElement('script');
+      el.charset = 'utf-8';
+      el.type = 'text/javascript';
+      el.src = 'https://platform.twitter.com/widgets.js';
+      btn[0].parentNode.insertBefore(el, btn[0].nextSibling);
+    }
+    </script>
+<iframe src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fserarico.blog.jp%2Farchives%2F13188868.html&layout=button_count&size=small&width=98&height=21&appId" width="98" height="21" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+<iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fserarico.blog.jp%2Farchives%2F13188868.html&amp;send=false&amp;layout=button_count&amp;width=110&amp;show_faces=false&amp;action=like&amp;size=small&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:110px; height:21px;" allowTransparency="true" allow="encrypted-media"></iframe>
+        <iframe src="https://clap.blogcms.jp/livedoor/serarico_bamboo/13188868/button_pc" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:22px;" allowTransparency="true" width="500px" data-article-id="13188868"></iframe>
+        <script type="text/javascript">if (!window['flgAddMessageListener']) { (function() { window.addEventListener('message', function(message) { if (message.origin !== 'https://clap.blogcms.jp') { return; } var tmp = message.data.split(/:/);var articleId = tmp[0]; var width = tmp[1]; var iframes = document.getElementsByTagName('iframe'); for (var i = 0; i < iframes.length; i++) { var iframe = iframes[i]; if (iframe.getAttribute('data-article-id') !== articleId) { continue; } iframe.setAttribute('width', width+'px'); } }, false); })(); flgAddMessageListener = true; }</script>
+
+    </div>
+</footer>
+<!-- /記事フッター、カテゴリ、コメント、ソーシャルボタン -->
+<div id="ad2"></div>
+
+<!-- Article Pager // -->
+  <div class="pager article-pager-type2">
+    <div class="pager-inner">
+    <div class="article-pager-outer">
+    <ul class="article-pager"><li class="prev"><a href="https://serarico.blog.jp/archives/13113363.html" title="三陸ワカメ・・・ある復興支援">&lt; 前の記事</a></li>    </ul>
+    </div>
+    </div>
+  </div>
+<!-- // Article Pager -->
+
+
+<div id="article-options">
+
+
+<section id="comments">
+<h1 class="article-option-title">コメント</h1>
+			<a name="comments"></a>
+<div id="comment-form-outer">
+    <div class="article-option comment-form-v2" id="comment-form">
+
+        <form
+          action="https://comment.blogcms.jp/livedoor/serarico_bamboo/13188868/post"
+          method="post"
+          name="comment_form"
+              id="comment-form-body"
+          onsubmit="setCommentAuthor(this); return submitOnce(this.button);"
+        >
+        <fieldset>
+            <legend>コメントフォーム</legend>
+        <dl class="comment-form-author">
+            <dt><label for="comment-form-author" class="comment-author-label">名前</label></dt>
+            <dd id="comment-author-form"><input type="text" class="text comment-form-v2-author" id="comment-form-author" name="author" required="required" value="" placeholder="名前" /></dd>
+        </dl>
+        <dl class="comment-form-body">
+            <dt><label for="comment-form-textarea" class="comment-body-label">コメント</label></dt>
+            <dd>
+                <textarea id="comment-form-textarea" name="body" class="comment-form-v2-body" required="required"></textarea>
+                <div id="comment-form-tools" class="comment-form-tools">
+                    <span class="facemark"><a href="javascript:void(0);" id="emojiLink1" onClick="showEmojiPanel(this.id, 'comment-form-textarea')"><img src="https://parts.blog.livedoor.jp/img/usr/default_2012/common/icon_facemark.png" /></a></span>
+                    <span class="rating">
+                        <input type="hidden" name="rating" value="">
+                        <input type="hidden" name="rating_icon" value="star">
+                        <div class="rating-value-v2">
+                            <span id="default-rating-value">記事の評価</span>
+                            <div class="caret"><span></span></div>
+                            <ul>
+                                <li data-value="5"><span class="rate"><img src="https://parts.blog.livedoor.jp/img/comment2/face_05.svg" width="14" height="14"></span></li>
+                                <li data-value="4"><span class="rate"><img src="https://parts.blog.livedoor.jp/img/comment2/face_04.svg" width="14" height="14"></span></li>
+                                <li data-value="3"><span class="rate"><img src="https://parts.blog.livedoor.jp/img/comment2/face_03.svg" width="14" height="14"></span></li>
+                                <li data-value="2"><span class="rate"><img src="https://parts.blog.livedoor.jp/img/comment2/face_02.svg" width="14" height="14"></span></li>
+                                <li data-value="1"><span class="rate"><img src="https://parts.blog.livedoor.jp/img/comment2/face_01.svg" width="14" height="14"></span></li>
+                                <li data-value="">リセット</li>
+                            </ul>
+                            <ul>
+                                <li data-value="5"><span class="rate"><span class="icon-comment-v2-star" style="color: #f9320b;"></span><span class="icon-comment-v2-star" style="color: #f9320b;"></span><span class="icon-comment-v2-star" style="color: #f9320b;"></span><span class="icon-comment-v2-star" style="color: #f9320b;"></span><span class="icon-comment-v2-star" style="color: #f9320b;"></span></span></li>
+                                <li data-value="4"><span class="rate"><span class="icon-comment-v2-star" style="color: #f4a20f;"></span><span class="icon-comment-v2-star" style="color: #f4a20f;"></span><span class="icon-comment-v2-star" style="color: #f4a20f;"></span><span class="icon-comment-v2-star" style="color: #f4a20f;"></span><span class="icon-comment-v2-star" style="color: #dddddd;"></span></span></li>
+                                <li data-value="3"><span class="rate"><span class="icon-comment-v2-star" style="color: #38c638;"></span><span class="icon-comment-v2-star" style="color: #38c638;"></span><span class="icon-comment-v2-star" style="color: #38c638;"></span><span class="icon-comment-v2-star" style="color: #dddddd;"></span><span class="icon-comment-v2-star" style="color: #dddddd;"></span></span></li>
+                                <li data-value="2"><span class="rate"><span class="icon-comment-v2-star" style="color: #53d6e0;"></span><span class="icon-comment-v2-star" style="color: #53d6e0;"></span><span class="icon-comment-v2-star" style="color: #dddddd;"></span><span class="icon-comment-v2-star" style="color: #dddddd;"></span><span class="icon-comment-v2-star" style="color: #dddddd;"></span></span></li>
+                                <li data-value="1"><span class="rate"><span class="icon-comment-v2-star" style="color: #9372dd;"></span><span class="icon-comment-v2-star" style="color: #dddddd;"></span><span class="icon-comment-v2-star" style="color: #dddddd;"></span><span class="icon-comment-v2-star" style="color: #dddddd;"></span><span class="icon-comment-v2-star" style="color: #dddddd;"></span></span></li>
+                                <li data-value="">リセット</li>
+                            </ul>
+                        </div>
+                        <div class="rating-icon-v2">
+                            <div data-value="face">顔</div>
+                            <div class="selected" data-value="star">星</div>
+                        </div>
+                    </span>
+                    <span class="memorize"><label for="bake"><input type="checkbox" id="bake" name="cookie" /><span>情報を記憶</span></label></span>
+                    <p class="comment-form-sumibit"><span class="submit"><button type="submit">コメントを投稿する</button></span></p>
+                </div>
+            </dd>
+        </dl>
+        </fieldset>
+        </form>
+        <script type="text/javascript" src="https://parts.blog.livedoor.jp/js/comment.0.2.js?v=20130430"></script>
+        <script type="text/javascript" src="https://parts.blog.livedoor.jp/js/misc.js?v=20190826"></script>
+        <script type="text/javascript">
+            loadCommentAuthor(document.comment_form);
+            ldblogComment.init();
+        </script>
+<!-- /#comment-form --></div>
+</div>
+<script src="https://parts.blog.livedoor.jp/js/anime.min.js?_v="></script>
+<script src="https://parts.blog.livedoor.jp/js/comment2/heart_animation.js?_v="></script>
+<script>
+var __comment_animation = new Animation.Hover('.comment-like');
+if (!window['jQuery']) { document.write('<script src="https://parts.blog.livedoor.jp/js/jquery-1.7.1.min.js"><\/script>'); }
+jQuery(window).on('message', function(event) {
+  if (event.originalEvent.origin !== 'https://comment.blogcms.jp') { return; }
+  var data = JSON.parse(event.originalEvent.data);
+  for (var i in data) {
+    var d = data[i];
+    var $targetCount = jQuery('#comment-like-count-'+d.no)
+    $targetCount.html(d.like_count);
+
+    if (d.like_count > 0) {
+      $targetCount.addClass('on');
+      var $targetIcon = jQuery('.comment-like-icon[data-comment-no="'+d.no+'"]');
+      $targetIcon.find('.off').css({ opacity: 0, display: 'none' });
+      $targetIcon.find('.hover').css({ opacity: 1, display: 'block' });
+    }
+  }
+});
+jQuery(document).ready(function() {
+  var $textarea         = jQuery('#comment-form-textarea');
+  var $commentForm      = jQuery('#comment-form');
+  var $commentFormOuter = jQuery('#comment-form-outer');
+  jQuery(document).on('click', '.toggle-reply-form', function() {
+    var $this = jQuery(this);
+    $textarea.val('');
+    hideEmojiPanel('comment-form-textarea');
+    if ($this.attr('data-open')) {
+      $commentFormOuter.append($commentForm);
+      $this.attr('data-open', '');
+      jQuery('.reply-icon.icon-comment-v2-arrow_on').addClass('icon-comment-v2-arrow_off').removeClass('icon-comment-v2-arrow_on');
+    } else {
+      $commentForm.hide();
+      jQuery('.reply-icon.icon-comment-v2-arrow_on').addClass('icon-comment-v2-arrow_off').removeClass('icon-comment-v2-arrow_on');
+      var replyNo   = $this.attr('data-no');
+      var replyText = '>>' + replyNo + "\n";
+      $textarea.val(replyText);
+      $textarea.focus();
+      jQuery('#comment-'+replyNo).append($commentForm);
+      $commentForm.slideToggle();
+      $this.attr('data-open', 1);
+      $this.children('.icon-comment-v2-arrow_off').addClass('icon-comment-v2-arrow_on').removeClass('icon-comment-v2-arrow_off');
+    }
+  });
+  jQuery(document).on('click', '.comment-like-icon', function() {
+    var $this  = jQuery(this);
+    var $frame = jQuery('#comment-like-frame');
+    var no = $this.attr('data-comment-no');
+
+    $frame[0].contentWindow.postMessage(no, '*');
+    var $likeCount = jQuery('#comment-like-count-' + no);
+    $likeCount.html(parseInt($likeCount.html(), 10) + 1).addClass('on');
+  });
+});
+</script>
+<script>
+jQuery(document).ready(function() {
+  var star              = jQuery('#comment-form-tools .rating-value-v2 ul:last');
+  var face              = jQuery('#comment-form-tools .rating-value-v2 ul:first');
+  var rating_disp       = jQuery('#comment-form-tools .rating-value-v2');
+  var input_rating      = jQuery('#comment-form-tools input[name="rating"]');
+  var option_rating     = jQuery('#comment-form-tools .rating-value-v2 ul li');
+  var input_rating_icon = jQuery('#comment-form-tools input[name="rating_icon"]');
+  var radio_rating_icon = jQuery('#comment-form-tools .rating-icon-v2 div');
+  jQuery('#comment-form-tools .rating-value-v2').hover(function(){
+    (input_rating_icon.val() === 'star' ? star : face).show();
+  }, function(){
+    (input_rating_icon.val() === 'star' ? star : face).hide();
+  });
+
+  radio_rating_icon.on('click', function() {
+    var $this = jQuery(this);
+    input_rating_icon.val($this.data('value'));
+    radio_rating_icon.removeClass('selected');
+    $this.addClass('selected');
+    rating_disp.find('> span.current').remove();
+    rating_disp.find('> span, > div').show();
+    input_rating.val('');
+  });
+  option_rating.on('click', function() {
+    var $this = jQuery(this);
+    var rating = $this.data('value');
+    input_rating.val(rating);
+    rating_disp.find('> span.current').remove();
+    if (rating) {
+      rating_disp.find('> span, > div').hide();
+      var ele = $this.find('> span.rate').clone().addClass('current');
+      rating_disp.append(ele);
+    } else {
+      rating_disp.find('> span, > div').show();
+    }
+  });
+});
+</script>
+<iframe id="comment-like-frame" width="0" height="0" src="https://comment.blogcms.jp/livedoor/serarico_bamboo/13188868/like_frame" style="display:none;"></iframe>
+</section>
+
+
+
+
+<!-- /#article-options --></div>
+
+</article>
+<!-- /記事全体 -->
+
+<!-- /#main-inner --></div>
+<!-- /#main --></div>
+
+<!-- サイドバー -->
+<aside id="sidebar" class="column">
+<div id="sidebar-inner">
+
+
+
+
+<div class="plugin-recent_articles sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">最新記事</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<div class="sidebody"><a href="https://serarico.blog.jp/archives/13188868.html">新しくなる長崎駅</a></div>
+
+<div class="sidebody"><a href="https://serarico.blog.jp/archives/13113363.html">三陸ワカメ・・・ある復興支援</a></div>
+
+<div class="sidebody"><a href="https://serarico.blog.jp/archives/12765547.html">大食いTV番組に思うこと</a></div>
+
+<div class="sidebody"><a href="https://serarico.blog.jp/archives/11491090.html">【9.11】　あれから20年</a></div>
+
+<div class="sidebody"><a href="https://serarico.blog.jp/archives/11156205.html">「ポツンと一軒家」</a></div>
+
+<div class="sidebody"><a href="https://serarico.blog.jp/archives/11095727.html">「はじめての防衛白書」</a></div>
+
+<div class="sidebody"><a href="https://serarico.blog.jp/archives/11076887.html">言葉の刃</a></div>
+
+<div class="sidebody"><a href="https://serarico.blog.jp/archives/nagi.html">ナギ（梛）</a></div>
+
+<div class="sidebody"><a href="https://serarico.blog.jp/archives/11000949.html">ポリコレってなに？</a></div>
+
+<div class="sidebody"><a href="https://serarico.blog.jp/archives/10972478.html">地球温暖化の真偽</a></div>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-recent_articles -->
+
+<script type="text/javascript" src="https://parts.blog.livedoor.jp/plugin/ldblog_calendar_plugin.js"></script>
+<script type="text/javascript">var calendar_url_pattern_hash_510556='3367761713'</script>
+<script type="text/html" id="ldblog_calendar_default_template-510556">
+<% wdays = ['日', '月', '火', '水', '木', '金', '土']; %>
+<div class="calendarheadbody"><div class="calendarhead" id="calendarhead-510556">
+  &nbsp;&nbsp;<%= year %>年<%= month %>月&nbsp;&nbsp;
+</div></div>
+<div class="caltop"></div>
+<div class="calbody">
+<table cellpadding="0" cellspacing="0" border="0" class="caltbl calendartable">
+<tr> 
+  <td width="100%" class="caltblwkbg calendarwd">
+    <table cellpadding="2" cellspacing="0" width="100%" border="0" class="caltblwk">
+      <tr>
+      <% for ( var i = 0; i < 7; i++ ) { %>
+        <td width="14%" align="center" class="<% if (i == 0) { %>sun<% } else if (i == 6) { %>sat<% } else { %>weekday<% } %>"><span class="calendarweek"><%= wdays[i] %><span></td>
+      <% } %>
+      </tr>
+    </table>
+  </td>
+</tr>
+<tr>
+  <td width="100%" class="caltbldaybg">
+    <table cellpadding="2" cellspacing="0" width="100%" border="0" class="caltblday">
+      <% for ( var i = 0; i < cal.length; i++ ) { %>
+      <tr class="<% if (i % 2) { %>even<% } else { %>odd<% } %>">
+        <% for ( var j = 0; j < cal[i].length; j++) { %>
+        <td width="14%" align="center" class="caloff calendard"><span class="calendar"<% if (cal[i][j] > 0) { %> id="calendar-510556-day-<%= cal[i][j]%>"<% } %>><%= cal[i][j] %></span></td>
+        <% } %>
+      </tr>
+    <% } %>
+  </table></td>
+</tr>
+</table>
+</div>
+<div class="calbottom"></div>
+</script>
+
+<div class="plugin-calendar_japanese sidewrapper" id="calendarplugin-510556">
+<script type="text/javascript">(function () { var ldcal = new ldBlogCalendarPlugin(510556); ldcal.init(); })();</script>
+</div><!-- // plugin-calendar_japanese -->
+
+<div class="plugin-monthly sidewrapper" id="plugin-monthly-461167">
+<div class="sidetitlebody">
+<div class="sidetitle">アーカイブ</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+
+<div class="sidebody"><a href="https://serarico.blog.jp/archives/2021-12.html">2021年12月</a></div>
+
+<div class="sidebody"><a href="https://serarico.blog.jp/archives/2021-11.html">2021年11月</a></div>
+
+<div class="sidebody"><a href="https://serarico.blog.jp/archives/2021-09.html">2021年09月</a></div>
+
+<div class="sidebody"><a href="https://serarico.blog.jp/archives/2021-08.html">2021年08月</a></div>
+
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-monthly -->
+
+
+
+
+
+
+
+
+
+<div class="plugin-categorize sidewrapper" id="plugin-categorize-461168">
+    <div class="sidetitlebody">
+        <div class="sidetitle">カテゴリー</div>
+    </div>
+    <div class="sidetop"></div>
+    <div class="side">
+
+
+      
+
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="https://serarico.blog.jp/archives/cat_247255.html">時事問題 (8)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="https://serarico.blog.jp/archives/cat_247256.html">街歩き (4)</a>
+          
+        </div>
+        
+    
+    
+
+    </div>    
+    <div class="sidebottom"></div>
+</div><!-- // plugin-categorize -->
+
+<div class="plugin-search_internal sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">記事検索</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+ <form action="https://serarico.blog.jp/search" method="GET" style="padding:0;margin:0px;">
+ <input type="TEXT" name="q" class="sf">
+ <input type="SUBMIT" value="検索" class="sfbtn">
+ </form>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-search_internal -->
+<div class="plugin-profile2 sidewrapper">
+  <div class="sidetitlebody">
+    <div class="sidetitle">自己紹介</div>
+  </div>
+  <div class="sidetop"></div>
+
+  <div class="side">
+    
+    <link rel="stylesheet" type="text/css" href="https://parts.blog.livedoor.jp/css/plugin/profile2/normal.css" />
+    <div id="contents" class="contents-normal" style="width: 168px; height: 348px; border-color: #969999; background: #ffffff;">
+      
+      <h1 class="normal" style="background: #ffffff;">
+      <img class="normal" src="https://member.livedoor.com/icon_img/serarico_bamboo_160P.jpg" alt="" />
+            
+      <p id="nickname-normal" style="color: #0000ff;">TakeroKit<p>
+      
+      </h1>
+      
+      <p id="introduction-normal" style="color: #333333;">後期高齢者です。元自衛官。<br>
+人生残された日々の徒然に書いています。</p>
+      
+    </div>
+    
+  </div>
+  <div class="sidebottom"></div>
+
+</div>
+<!-- // plugin-profile2 -->
+
+<div class="plugin-qr_code sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">QRコード</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<div align="center">
+<img src="https://chart.apis.google.com/chart?cht=qr&amp;chs=123x123&amp;chl=https%3A%2F%2Fserarico.blog.jp%2F%3F_f%3Dblogjpqr&amp;chld=M"
+     width="123"
+     height="123"
+     border="0"
+     alt="QRコード" />
+</div>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-qr_code -->
+
+
+
+
+
+</div>
+
+
+<ul id="ld-services">
+<li id="blog-powered"><a href="https://blog.livedoor.com/"><img src="https://parts.blog.livedoor.jp/img/usr/cmn/logo_blog_premium.png" width="114" height="24" alt="ライブドアブログ" /></a></li>
+</ul>
+
+</aside>
+<!-- /サイドバー -->
+
+<p class="to-pagetop"><a href="#">↑このページのトップヘ</a></p>
+
+<!-- /#content --></div>
+<!-- /#container --></div>
+
+<!-- ブログのフッター -->
+<footer id="blog-footer">
+<!-- Blog Common Footer // --><div id="footer"><p>Powered by <a href="http://blog.livedoor.com/" title="ライブドアブログ">ライブドアブログ</a></p></div><!-- // Blog Common Footer -->
+</footer>
+<!-- /ブログのフッター -->
+
+<!-- /#wrapper --></div>
+
+<!-- Add Body Tag // --><script type="text/javascript">
+(function(){
+  var traq = document.createElement('script'); traq.type = 'text/javascript'; traq.async = true;
+  traq.src = 'https://t.blog.livedoor.jp/u.js';
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(traq, s);
+})();
+</script>
+<noscript>
+<img src="https://t.blog.livedoor.jp/u.gif" alt="traq">
+</noscript>
+<!-- // Add Body Tag -->
+
+<script>
+(function($) {
+  var cookieName = 'livedoor-blog-gdpr-agreed';
+  $(document).ready(function() {
+    if (navigator.userAgent.match(/https?:\/\//)) {
+      // UA に http:// or https:// があればスルー
+      return;
+    }
+
+    var agreed = document.cookie.indexOf(cookieName) >= 0;
+    if (agreed) {
+      // 同意済み Cookie があればスルー
+      return;
+    }
+
+    var banner = $('<div>');
+    banner.attr('id', 'gdpr-banner');
+    var label = $('<p>');
+    label.html('\
+      ライブドアブログでは広告のパーソナライズや効果測定のためクッキー(cookie)を使用しています。<br>\
+      このバナーを閉じるか閲覧を継続することでクッキーの使用を承認いただいたものとさせていただきます。<br>\
+      また、お客様は当社パートナー企業における所定の手続きにより、クッキーの使用を管理することもできます。<br>\
+      詳細は<a href="http://www.livedoor.com/rules/" target="_blank" style="color:#023780;text-decoration:underline;">ライブドア利用規約</a>をご確認ください。\
+    ');
+    banner.append(label);
+
+    var closeButton = $('<button>');
+    closeButton.attr('type', 'button');
+    closeButton.html('閉じる');
+    closeButton.on('click', function() {
+      $('#gdpr-banner').hide();
+      document.cookie = cookieName + '="1";expires=Tue, 31-Dec-2037 00:00:00 GMT;path=/;';
+    });
+    banner.append(closeButton);
+
+    banner.css({
+      'position': 'fixed',
+      'left': '0',
+      'right': '0',
+      'bottom': '0',
+      'background': '#dcdcdc',
+      'color': '#000',
+      'padding': '20px',
+      'text-align': 'center',
+      'box-shadow': '0 -2px 2px rgba(102, 102, 102, 0.86)',
+      'z-index': '2147483647',
+    });
+    label.css({
+      'display': 'inline-block',
+      'text-align': 'left',
+      'font-size': '14px',
+      'color': '#000',
+      'vertical-align': 'middle',
+      'line-height': '1.5',
+    });
+    closeButton.css({
+      'display': 'inline-block',
+      'color': '#fff',
+      'border': 'none',
+      'font-size': '14px',
+      'padding': '4px 40px',
+      'margin-left': '40px',
+      'background': '#535353',
+      'vertical-align': 'middle',
+    });
+
+    var script = document.createElement('script');
+    script.type = "text/javascript";
+    script.src = "https://ipcheck.blogsys.jp/check.js?t=" + Date.now();
+    script.onerror = function() {
+      $('body').append(banner);
+    };
+    document.body.appendChild(script);
+  });
+})(jQuery);
+</script>
+</body>
+</html>
